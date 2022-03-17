@@ -1,0 +1,8 @@
+{
+  "name": "matrix-rain",
+  "author": "ayden1234",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest"
+  }
+}
